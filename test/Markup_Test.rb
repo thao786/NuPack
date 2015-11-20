@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative "../markup.rb"
+require_relative "../Markup.rb"
 
 describe Markup do
 

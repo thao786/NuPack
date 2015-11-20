@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative "../product.rb"
+require_relative "../Product.rb"
 
 describe Product do
 
